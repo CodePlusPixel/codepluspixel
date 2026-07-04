@@ -1,4 +1,4 @@
-# 💻  Development, Design & Publishing Toolkit
+# 💻 Development, Design & Publishing Toolkit
 
 ### Languages
 
