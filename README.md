@@ -1,4 +1,4 @@
-# 💻 Code, Design & Publishing Toolkit
+# 🚀 Product Creation Stack
 
 ### Languages
 
