@@ -20,7 +20,7 @@
 ### Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Procreate](https://img.shields.io/badge/Procreate-6C63FF?style=for-the-badge&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logoColor=white)
 
 ### Adobe Creative Cloud
 
