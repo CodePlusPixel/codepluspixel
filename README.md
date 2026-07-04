@@ -1,4 +1,4 @@
-# 💻 Development & Design Toolkit
+# 💻 Tech & Design Toolkit
 
 ### Languages
 
