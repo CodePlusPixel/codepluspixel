@@ -1,4 +1,4 @@
-# 🚀 Product Creation Stack
+# 🚀 Product Development Stack
 
 ### Languages
 
