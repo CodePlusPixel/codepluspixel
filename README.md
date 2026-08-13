@@ -33,10 +33,8 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -70,7 +68,6 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-
 ![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge)
 ![Adobe Firefly](https://img.shields.io/badge/Adobe_Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
