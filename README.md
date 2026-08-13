@@ -110,8 +110,8 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 ## Visual Design
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge)
 
   
@@ -119,10 +119,11 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 ## Motion Design
 
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=gsap&logoColor=black)
 ![Lottie](https://img.shields.io/badge/Lottie-00DDB3?style=for-the-badge&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=rive&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
 
   
   
