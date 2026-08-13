@@ -27,12 +27,7 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Focus:
-
-JavaScript → TypeScript    
-Python for AI Applications  
-SQL & Databases    
-Java  
+ 
 
 ## Frontend Development
 
@@ -45,17 +40,6 @@ Java
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-Focus:
-
-Advanced CSS  
-SVG  
-Responsive Design    
-Component Architecture    
-State Management    
-Routing  
-Forms & Validation  
-Accessibility  
-Performance Optimization  
 
 
 ## Backend & Data
@@ -64,13 +48,7 @@ Performance Optimization
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Focus:
-
-REST APIs  
-Database Design  
-Data Modeling  
-Authentication  
-API Integration  
+  
 
 
 ## Development Workflow
@@ -82,13 +60,7 @@ API Integration
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Focus:
-
-Version Control  
-Command Line  
-Debugging  
-Documentation  
-Testing  
+ 
 
 
 ---
@@ -104,12 +76,7 @@ Testing
 ![Adobe Firefly](https://img.shields.io/badge/Adobe_Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 
-Focus:
 
-LLM Applications  
-Prompt Engineering  
-AI Automation  
-AI-powered Product Features  
 
 
 ## AI Product Development
@@ -118,14 +85,7 @@ AI-powered Product Features
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 
-Focus:
 
-API integration  
-RAG basics  
-Embeddings  
-Vector Databases  
-AI Agent Workflows  
-Context Engineering  
 
 
 ---
@@ -144,53 +104,17 @@ Context Engineering
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Maze](https://img.shields.io/badge/Maze-000000?style=for-the-badge)
 
-Focus:
-
-UX Research  
-UI Design 
-Interaction Design  
-Information Architecture  
-Customer Journey Mapping  
-Prototyping  
-Usability Testing  
+ 
 
 
-## Branding
 
-Focus:
-
-Archetypes  
-Brand Discovery  
-Brand Positioning  
-Author Branding  
-Product Storytelling  
-Audience Research  
-
-
-## Visual Identity
+## Visual Design
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge)
 
-Focus:
-
-Logo Systems  
-Typography  
-Color Systems  
-Illustration  
-Visual Language  
-
-
-## Design Systems
-
-Focus:
-
-Components  
-Design Systems & Tokens  
-Typography Systems  
-Color Systems  
-Reusable UI Patterns  
+  
 
 
 ## Motion Design
@@ -200,11 +124,7 @@ Reusable UI Patterns
 ![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=for-the-badge&logo=rive&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
-Focus:
-
-Micro-interactions  
-UI Animation  
-Interactive Experiences    
+  
   
 
 ## Product Launch & Distribution
@@ -212,14 +132,6 @@ Interactive Experiences
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Focus:
-
-Focus:
-
-Deployment  
-Version Control  
-Product Launch  
-Distribution     
 
 
 ---
@@ -232,12 +144,7 @@ Distribution
 ![Scrivener](https://img.shields.io/badge/Scrivener-2C2C2C?style=for-the-badge&logo=literatureandlanguage&logoColor=white)
 ![Scapple](https://img.shields.io/badge/Scapple-2C2C2C?style=for-the-badge&logo=literatureandlanguage&logoColor=white)
 
-Focus:
-
-Story Development  
-Series Architecture  
-Manuscript Development  
-Research Organization  
+  
 
 
 ## Book Production & Design
@@ -245,14 +152,7 @@ Research Organization
 ![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
-Focus:
-
-Book Layout  
-Typography  
-Cover Design Systems  
-Print Production  
-PDF Production  
-Prepress  
+ 
 
 
 ## Ebook Production
@@ -262,12 +162,7 @@ Prepress
 ![Sigil](https://img.shields.io/badge/Sigil-4B4B4B?style=for-the-badge) 
 ![Kindle_Previewer](https://img.shields.io/badge/Kindle_Previewer-FF9900?style=for-the-badge&logo=amazon&logoColor=white) 
 
-Focus:
-
-EPUB Production  
-Ebook Formatting  
-Metadata Management  
-Digital Publishing Workflow  
+  
 
 
 ## Publishing & Marketing
@@ -276,11 +171,3 @@ Digital Publishing Workflow
 ![Draft2Digital](https://img.shields.io/badge/Draft2Digital-1A1A1A?style=for-the-badge)
 ![IngramSpark](https://img.shields.io/badge/IngramSpark-00A6B2?style=for-the-badge)
 ![BookBub](https://img.shields.io/badge/BookBub-1E5AA8?style=for-the-badge)
-
-Focus:
-
-Book Discovery  
-Audience Building  
-Book Promotion  
-Launch Campaigns  
-
