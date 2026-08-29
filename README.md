@@ -90,9 +90,7 @@ Creating AI-powered applications, automation and agent workflows.
 
 # 🧩 Product Development 
 
-Delivering end-to-end product concepts from research through implementation. 
-
-Interfaces, visual systems, illustrations and product experiences.
+Delivering end-to-end product concepts from research through implementation.  Creating interfaces, design systems, illustrations and product experiences.
 
 ## Planning & Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
