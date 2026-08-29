@@ -11,7 +11,7 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 🟢 Graphic Design   
 🟢 UI/UX Design   
 🟢 Product Development  
-🟢 AI Engineering
+🟢 AI Engineering 
 🟢 Marketing  
 
 ---
