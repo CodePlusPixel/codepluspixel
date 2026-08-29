@@ -6,10 +6,10 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 ### 🎯 2026 Year Focus
 
 🟢 Software Development    
-🟢 AI Engineering              
-🟢 Product Development 
-🟢 UI/UX Design      
-🟢 Graphic Design 
+🟢 AI Engineering                 
+🟢 Product Development    
+🟢 UI/UX Design        
+🟢 Graphic Design    
 🟢 Publishing       
 🟢 Branding  
 🟢 Marketing  
