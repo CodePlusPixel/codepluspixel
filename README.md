@@ -1,7 +1,7 @@
 
 # 🚀 Product Creation Stack
 
-Building end-to-end products through code, design, AI, publishing, and storytelling.
+Building and shipping end-to-end products through code, design, AI, publishing, and storytelling.
 
 ### 🎯 2026 Year Focus
 
