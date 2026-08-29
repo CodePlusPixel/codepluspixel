@@ -9,10 +9,8 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 🟢 AI Engineering   
 🟢 Product Development   
 🟢 UI/UX Design   
-🟢 Graphic Design   
 🟢 Publishing   
-🟢 Branding   
-🟢 Marketing     
+🟢 Branding       
 
 ---
 
