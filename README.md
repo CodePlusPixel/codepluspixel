@@ -16,7 +16,7 @@ I create products from idea to publication through code, design, AI, publishing,
 
 # 💻 Software Engineering
 
-Building web applications, tools and digital products.   
+Building web projects, applications, tools and digital products.   
 
 ## Languages
 
