@@ -2,13 +2,6 @@
 # 🚀 Product Creation Stack
 
 
-💻 Software Engineering
-🤖 AI Engineering
-🧩 Product Development
-🎨 UI/UX Design
-📚 Publishing
-✦ Branding
-
 I create products from idea to publication through code, design, AI, publishing, and storytelling.
 
 ### 🎯 2026 Year Focus
