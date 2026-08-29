@@ -5,7 +5,7 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 ### 🎯 2026 Year Focus
 
-🟢 Software Development   
+🟢 Software Engineering   
 🟢 AI Engineering   
 🟢 Product Development   
 🟢 UI/UX Design   
