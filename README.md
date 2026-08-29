@@ -16,7 +16,7 @@ I create products from idea to publication through code, design, AI, publishing,
 
 # 💻 Software Engineering
 
-Building web projects, applications, tools and digital products.   
+Building web applications, tools, and digital products.   
 
 ## Languages
 
@@ -64,7 +64,7 @@ Building web projects, applications, tools and digital products.
 
 # 🤖 AI 
 
-Developing AI-powered applications, automation and agent workflows.
+Building AI-powered applications, automations, and agent workflows.
 
 ## AI Tools
 
@@ -90,7 +90,7 @@ Developing AI-powered applications, automation and agent workflows.
 
 # 🧩 Product Development 
 
-Delivering end-to-end product concepts from research through implementation. Interfaces, design systems, illustrations and product experiences.
+Turning ideas into products, from research and design through implementation.
 
 ## Planning & Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -138,7 +138,7 @@ Delivering end-to-end product concepts from research through implementation. Int
 
 # 📚 Publishing
 
-Creating and publishing books, leading cultural & educational projects.
+Creating and publishing books, with a focus on cultural and educational projects.
 
 ## Writing & Editing
 
