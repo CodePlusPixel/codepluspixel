@@ -1,7 +1,6 @@
 
 # 🚀 Product Creation Stack
 
-I create products from idea to publication through code, design, AI, publishing, and storytelling.
 
 💻 Software Engineering
 🤖 AI Engineering
@@ -10,7 +9,7 @@ I create products from idea to publication through code, design, AI, publishing,
 📚 Publishing
 ✦ Branding
 
-
+I create products from idea to publication through code, design, AI, publishing, and storytelling.
 
 ### 🎯 2026 Year Focus
 
