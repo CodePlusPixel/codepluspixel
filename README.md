@@ -1,34 +1,30 @@
 
 # 🚀 Product Creation Stack
 
-Building and shipping end-to-end products through code, design, AI, publishing, and storytelling.
+I create products from idea to publication through code, design, AI, publishing, and storytelling.
+
+💻 Software Engineering
+🤖 AI Engineering
+🧩 Product Development
+🎨 UI/UX Design
+📚 Publishing
+✦ Branding
+
+
 
 ### 🎯 2026 Year Focus
 
 🟢 Software Engineering   
 🟢 AI Engineering   
-🟢 Product Development   
-🟢 UI/UX Design   
 🟢 Publishing   
-🟢 Branding       
-
-
-
-## 🧭 What I build
-
-💻 Software Engineering: Web applications, tools, and digital products   
-🤖 AI Engineering: AI-powered products, agents, automation, and workflows   
-🧩 Product Development: Digital products from concept to launch   
-🎨 UI/UX Design: Interfaces, visual systems, and product experiences   
-📚 Publishing: Books, educational products, and digital publications   
-✦ Branding: Product identities and visual brands  
-
+     
 
 
 ---
 
 # 💻 Software Engineering
 
+Building web applications, tools and digital products.   
 
 ## Languages
 
@@ -76,6 +72,8 @@ Building and shipping end-to-end products through code, design, AI, publishing, 
 
 # 🤖 AI 
 
+Creating AI-powered applications, automation and agent workflows.
+
 ## AI Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -100,6 +98,9 @@ Building and shipping end-to-end products through code, design, AI, publishing, 
 
 # 🧩 Product Development 
 
+Delivering end-to-end product concepts from research through implementation. 
+
+Interfaces, visual systems, illustrations and product experiences.
 
 ## Planning & Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -147,6 +148,7 @@ Building and shipping end-to-end products through code, design, AI, publishing, 
 
 # 📚 Publishing
 
+Books, cultural & educational projects, publishing, and marketing.
 
 ## Writing & Editing
 
