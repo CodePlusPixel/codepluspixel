@@ -138,7 +138,7 @@ Delivering end-to-end product concepts from research through implementation.  Cr
 
 # 📚 Publishing
 
-Books, cultural & educational projects, publishing, and marketing.
+Creating and publishing books, leading cultural & educational projects.
 
 ## Writing & Editing
 
