@@ -8,7 +8,7 @@ I create products from idea to publication through code, design, AI, publishing,
 
 🟢 Software Engineering   
 🟢 AI Engineering   
-🟢 Publishing   
+🟢 Book Publishing   
      
 
 
