@@ -7,12 +7,12 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 🟢 Software Development  
 🟢 Publishing    
-🟢 Branding & Marketing   
+🟢 Branding     
 🟢 Graphic Design   
 🟢 UI/UX Design   
 🟢 Product Development  
 🟢 AI Engineering
-
+🟢 Marketing  
 
 ---
 
