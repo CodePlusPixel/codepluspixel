@@ -63,7 +63,9 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 
 ---
 
-# 🤖 AI Tools
+# 🤖 AI 
+
+## AI Tools
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -71,8 +73,6 @@ Building end-to-end products through code, design, AI, publishing, and storytell
 ![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge)
 ![Adobe Firefly](https://img.shields.io/badge/Adobe_Firefly-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-
 
 
 
