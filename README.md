@@ -16,12 +16,12 @@ Building and shipping end-to-end products through code, design, AI, publishing, 
 
 ## 🧭 What I build
 
-💻 Software Engineering | Web applications, tools, and digital products   
-🤖 AI Engineering | AI-powered products, automation, and workflows   
-🧩 Product Development | Digital products from concept to launch   
-🎨 UI/UX Design | Interfaces, visual systems, and product experiences   
-📚 Publishing | Books, educational products, and digital publications   
-✦ Branding | Product identities and visual brands  
+💻 Software Engineering: Web applications, tools, and digital products   
+🤖 AI Engineering: AI-powered products, automation, and workflows   
+🧩 Product Development: Digital products from concept to launch   
+🎨 UI/UX Design: Interfaces, visual systems, and product experiences   
+📚 Publishing: Books, educational products, and digital publications   
+✦ Branding: Product identities and visual brands  
 
 
 
