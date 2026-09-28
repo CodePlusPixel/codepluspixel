@@ -6,7 +6,7 @@ I create products from idea to publication through code, design, AI, publishing,
 
 ### 🎯 2026 Year Focus
 
-🟢 Software Engineering   
+🟢 Software Development   
 🟢 AI Engineering   
 🟢 Book Publishing   
      
