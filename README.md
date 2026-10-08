@@ -64,7 +64,7 @@ Building web applications, tools, and digital products.
 
 ---
 
-# 🤖 AI 
+# 🤖 AI Engineering 
 
 Building AI-powered applications, automations, and agent workflows.
 
