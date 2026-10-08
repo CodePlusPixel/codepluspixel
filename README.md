@@ -6,17 +6,17 @@ I create products from idea to publication through code, design, AI, publishing,
 
 This is my learning roadmap.
 
-### 🎯 2026 Year Focus
+### 🎯 2026 FOCUS
 
-🟢 Software Development   
-🟢 AI Engineering   
-🟢 Book Publishing   
+🔹 Software Development
+🔹 AI Engineering
+🔹 Book Publishing
      
 
 
 ---
 
-# 💻 Software Engineering
+# 💻 Software Development
 
 Building web applications, tools, and digital products.   
 
@@ -90,7 +90,7 @@ Building AI-powered applications, automations, and agent workflows.
 
 ---
 
-# 🧩 Product Development 
+# 🧩 Product Design & Development 
 
 Turning ideas into products, from research and design through implementation.
 
