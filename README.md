@@ -4,6 +4,8 @@
 
 I create products from idea to publication through code, design, AI, publishing, and storytelling.
 
+This is my learning roadmap.
+
 ### 🎯 2026 Year Focus
 
 🟢 Software Development   
